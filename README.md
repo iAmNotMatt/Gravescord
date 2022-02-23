@@ -1,6 +1,5 @@
 # Gravescord
 
-1) Install requirements.txt
-   $ pip install -r requirements.txt
-3) Fill in gravesbotconfig.py
-4) Finish writing bot for me
+1) $ pip install -r requirements.txt
+2) Fill in gravesbotconfig.py
+3) Finish writing bot for me
